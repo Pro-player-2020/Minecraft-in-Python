@@ -6,6 +6,8 @@ Instructions :
 WASD to move
 space to jump
 
+E to save world
+
 I to open the inventory
 C to close the inventory or click the red button in the inventory
 click on a block to chose it
